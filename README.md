@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+I'm a Nikita Beloglazov, founder of NikitaBeloglazov Software Foundation and [Nebobot](https://github.com/Nebobot)
 
-<!--
-**NikitaBeloglazov/NikitaBeloglazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇺🇦 Ukrainian, a free-thinking programmer, typical botmaker, and a bit of an open-source enthusiast.
 
-Here are some ideas to get you started:
+### My social networks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/NikitaBeloglazov)
+[![Pinterest](https://img.shields.io/badge/Pinterest-red?logo=pinterest&logoColor=white&style=for-the-badge)](https://www.pinterest.com/nikita_beloglazov/)
+[![Linktree](https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/NikitaBeloglazov)
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=NikitaBeloglazov&theme=transparent&show_icons=true&count_private=true)![Statistics](http://github-readme-streak-stats.herokuapp.com/?user=NikitaBeloglazov&theme=transparent&locale=en&fire=ff6d00&count_private=true)
+
+<!-- ![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaBeloglazov&layout=compact&theme=transparent&count_private=true) -->
